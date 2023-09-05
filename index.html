@@ -4,36 +4,50 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Game Development Portfolio</title>
-    <!-- Add any additional CSS or styling links here -->
+    <style>
+        /* Inline CSS for the font */
+        body {
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f7f7;
+        }
+
+        /* Rest of your inline CSS styles */
+        /* ... (previous styles) ... */
+
+    </style>
 </head>
 <body>
-    <header>
-        <h1>Welcome to My Game Development Portfolio!</h1>
+    <header style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
+        <h1 style="font-size: 2rem;">Welcome to My Game Development Portfolio!</h1>
     </header>
-    <main>
-        <section>
-            <h2>About Me</h2>
-            <p>
-                As an online student and a self-taught programmer, I've found a passion for game development! For almost a year now, I've been working through trial and error with Unity (and I've enjoyed every second of the battle!).
-            </p>
-        </section>
-        <section>
-            <h2>What I'm Currently Working On</h2>
-            <ul>
-                <li>🎮 Game programming patterns</li>
-                <li>🧠 Game systems (such as state machines)</li>
-                <li>💻 Writing better, still effective code</li>
-            </ul>
-        </section>
-        <section>
-            <h2>Game Jams and Collaborations</h2>
-            <p>
-                I'm constantly searching for game jams to show off my skills, gain more skills, build up a portfolio, as well as fellow game developers. If you know of any jams, or have a team in need of a programmer, don't be afraid to reach out! 🤜🏾💥🤛
-            </p>
-        </section>
+
+    <main style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); border-radius: 5px;">
+        <!-- ... (previous sections) ... -->
     </main>
-    <footer>
+
+    <footer style="background-color: #333; color: #fff; text-align: center; padding: 10px;">
         <!-- Add your contact information or links to your social profiles here -->
     </footer>
+
+    <script>
+        // JavaScript for scroll effects
+        window.addEventListener('scroll', function() {
+            const header = document.querySelector('header');
+            const main = document.querySelector('main');
+
+            // Parallax effect for header
+            const scrollValue = window.scrollY;
+            header.style.transform = `translateY(${scrollValue * 0.5}px)`;
+
+            // Fade-in effect for main content
+            const mainPosition = main.getBoundingClientRect().top;
+            const windowHeight = window.innerHeight;
+            if (mainPosition < windowHeight * 0.75) {
+                main.style.opacity = 1;
+            }
+        });
+    </script>
 </body>
 </html>
