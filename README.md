@@ -1,6 +1,6 @@
 # Game Development Portfolio
 
-Welcome to my Game Development Portfolio! I'm a passionate self-taught game developer who has been working with Unity for nearly a year. I enjoy every moment of the creative process and problem-solving that game development offers.
+Welcome to my Game Development Portfolio! I'm a passionate self-taught game developer who has been working with Unity for nearly two years. I enjoy every moment of the creative process and problem-solving that game development offers.
 
 ## About Me
 
@@ -18,17 +18,15 @@ As an online student and self-taught programmer, I've dedicated myself to learni
 
 Here are some of the projects I've worked on:
 
-- [Project 1: Game Name](link-to-project-1) - A brief description of the project and what I learned from it.
+- [Project 1: Temporal Tunnels](https://aesaire.itch.io/temporal-tunnels) - This was a submission to the Mini Jame Jam #21. Me and my team created a time-based platformer game, featuring a constantly repeating loop and a fun soundtrack!
 
-- [Project 2: Game Name](link-to-project-2) - Another exciting project and key takeaways.
-
-- [Project 3: Game Name](link-to-project-3) - Showcase your versatility with different types of games you've developed.
+- [Project 2: Mr. Stickman- Office Simulator](link-to-project-2) - This was a submission to the Mini Jame Jam #16. Me and my team created a simple office-themed simulator, featuring a character called "Mr. Stickman", who's tired of his boring, generic, office job.
 
 ## Contact
 
-I'm always open to collaborating with other game developers and taking part in game jams. If you have an interesting project or need a programmer for your team, don't hesitate to reach out! Let's create amazing games together.
+I'm always open to collaborating with other game developers and taking part in game jams. If you have an exciting project or need a programmer for your team, don't hesitate to reach out! Let's create amazing games together.
 
-You can contact me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-username/) and [Twitter](https://twitter.com/your-username/).
+You can contact me via email at dessey.codes@gmail.com or connect with me at Itch.io https://dessey.itch.io/.
 
 Feel free to explore my GitHub repositories to see more of my work.
 
