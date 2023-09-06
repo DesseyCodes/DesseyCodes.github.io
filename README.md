@@ -25,6 +25,9 @@ Here are some of the projects I've worked on:
 </p>
 
 - [Project 2: Mr. Stickman- Office Simulator](link-to-project-2) - This was a submission to the Mini Jame Jam #16. Me and my team created a simple office-themed simulator, featuring a character called "Mr. Stickman", who's tired of his boring, generic, office job.
+<p align="center" width="100%">
+    <img width="33%" src="https://img.itch.zone/aW1nLzExNzU1NjQzLnBuZw==/315x250%23c/aMjfKb.png"> 
+</p>
 
 ## Contact
 
