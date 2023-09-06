@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 
 I'm always open to collaborating with other game developers and taking part in game jams. If you have an exciting project or need a programmer for your team, don't hesitate to reach out! Let's create amazing games together.
 
-You can contact me via email at dessey.codes@gmail.com or connect with me at [Itch.io] https://dessey.itch.io/.
+You can contact me via email at dessey.codes@gmail.com or connect with me at Itch.io https://dessey.itch.io/.
 
 Feel free to explore my GitHub repositories to see more of my work.
 
