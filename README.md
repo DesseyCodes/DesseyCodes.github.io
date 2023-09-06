@@ -1,47 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Game Development Portfolio</title>
-    <style>
-        /* Inline CSS for the font and other styles */
-        body {
-            font-family: 'Montserrat', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f7f7f7;
-        }
-        
-        /* Rest of your inline CSS styles */
-        /* ... (previous styles) ... */
-    </style>
-</head>
-<body>
-    <header style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
-        <h1 style="font-size: 2rem;">Welcome to My Game Development Portfolio!</h1>
-    </header>
+<body style="background-color:#5D6D7E;">
 
-    <main style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); border-radius: 5px;">
-        <!-- ... (previous sections) ... -->
-    </main>
 
-    <footer style="background-color: #333; color: #fff; text-align: center; padding: 10px;">
-        <!-- Add your contact information or links to your social profiles here -->
-    </footer>
+# Game Development Portfolio
 
-    <script>
-        // JavaScript for a simple fade-in effect on scroll
-        window.addEventListener('scroll', function() {
-            const main = document.querySelector('main');
+Welcome to my Game Development Portfolio! I'm a passionate self-taught game developer who has been working with Unity for nearly two years. I enjoy every moment of the creative process and problem-solving that game development offers.
 
-            // Fade-in effect for main content
-            const mainPosition = main.getBoundingClientRect().top;
-            const windowHeight = window.innerHeight;
-            if (mainPosition < windowHeight * 0.75) {
-                main.style.opacity = 1;
-            }
-        });
-    </script>
-</body>
-</html>
+## About Me
+
+As an online student and self-taught programmer, I've dedicated myself to learning the ins and outs of game development. My journey has been filled with challenges and triumphs, and I'm excited to share my projects and progress with you.
+
+## Current Focus
+
+- 🎮 **Game Programming Patterns:** I'm constantly exploring and implementing best practices in game programming to improve my code and create efficient and maintainable game systems.
+
+- 🧠 **Game Systems:** Developing game systems, including state machines, to enhance gameplay and make my games more engaging and interactive.
+
+- 💻 **Code Quality:** I'm committed to writing clean, well-organized, and optimized code to create games that run smoothly and are easy to maintain.
+
+## Portfolio
+
+Here are some of the projects I've worked on:
+
+- [Project 1: Temporal Tunnels](https://aesaire.itch.io/temporal-tunnels) - This was a submission to the Mini Jame Jam #21. Me and my team created a time-based platformer game, featuring a constantly repeating loop and a fun soundtrack!
+
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/DesseyCodes/DesseyCodes.github.io/assets/76536028/da82361c-296b-4706-ba1d-5fa40eddaade"> 
+</p>
+
+- [Project 2: Mr. Stickman- Office Simulator](link-to-project-2) - This was a submission to the Mini Jame Jam #16. Me and my team created a simple office-themed simulator, featuring a character called "Mr. Stickman", who's tired of his boring, generic, office job.
+<p align="center" width="200%">
+    <img width="33%" src="https://img.itch.zone/aW1hZ2UvMTk5OTMwMy8xMTc1NTU1NS5wbmc=/347x500/C9HXTS.png"> 
+</p>
+
+## Contact
+
+I'm always open to collaborating with other game developers and taking part in game jams. If you have an exciting project or need a programmer for your team, don't hesitate to reach out! Let's create amazing games together.
+
+You can contact me via email at dessey.codes@gmail.com or connect with me at Itch.io https://dessey.itch.io/.
+
+Feel free to explore my GitHub repositories to see more of my work.
+
+Thank you for visiting my portfolio! 🎮🚀
