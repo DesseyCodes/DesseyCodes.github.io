@@ -19,8 +19,9 @@ As an online student and self-taught programmer, I've dedicated myself to learni
 Here are some of the projects I've worked on:
 
 - [Project 1: Temporal Tunnels](https://aesaire.itch.io/temporal-tunnels) - This was a submission to the Mini Jame Jam #21. Me and my team created a time-based platformer game, featuring a constantly repeating loop and a fun soundtrack!
-  <p align="center">
-  <img src="![47hMjY](https://github.com/DesseyCodes/DesseyCodes.github.io/assets/76536028/da82361c-296b-4706-ba1d-5fa40eddaade)" alt="Sublime's custom image"/>
+
+<p align="center" width="100%">
+    <img width="33%" src="![47hMjY](https://github.com/DesseyCodes/DesseyCodes.github.io/assets/76536028/da82361c-296b-4706-ba1d-5fa40eddaade)"> 
 </p>
 
 - [Project 2: Mr. Stickman- Office Simulator](link-to-project-2) - This was a submission to the Mini Jame Jam #16. Me and my team created a simple office-themed simulator, featuring a character called "Mr. Stickman", who's tired of his boring, generic, office job.
