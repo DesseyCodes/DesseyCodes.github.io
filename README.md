@@ -1,4 +1,4 @@
-<body style="background-color:#5D6D7E;">
+
 
 
 # Game Development Portfolio
@@ -41,3 +41,5 @@ You can contact me via email at dessey.codes@gmail.com or connect with me at Itc
 Feel free to explore my GitHub repositories to see more of my work.
 
 Thank you for visiting my portfolio! 🎮🚀
+
+<body style="background-color:#5D6D7E;">
