@@ -23,8 +23,8 @@ Here are some of the projects I've worked on:
 
 - [Project 1: Temporal Tunnels](https://aesaire.itch.io/temporal-tunnels) - This was a submission to the Mini Jame Jam #21. Me and my team created a time-based platformer game, featuring a constantly repeating loop and a fun soundtrack!
 
-<p align="center" width="50%">
-    <img width="33%" src="https://github.com/DesseyCodes/DesseyCodes.github.io/assets/76536028/33cc3962-d0ad-4d1b-ae7c-375bc3147238"> 
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/DesseyCodes/DesseyCodes.github.io/assets/76536028/33cc3962-d0ad-4d1b-ae7c-375bc3147238"> 
 </p>
 
 - [Project 2: Mr. Stickman- Office Simulator](link-to-project-2) - This was a submission to the Mini Jame Jam #16. Me and my team created a simple office-themed simulator, featuring a character called "Mr. Stickman", who's tired of his boring, generic, office job.
