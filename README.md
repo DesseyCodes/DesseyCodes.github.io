@@ -42,4 +42,4 @@ Feel free to explore my GitHub repositories to see more of my work.
 
 Thank you for visiting my portfolio! 🎮🚀
 
-<body style="background-color:#5D6D7E;">
+<body style="background-color:#1e1e1e; color: #ffffff">
